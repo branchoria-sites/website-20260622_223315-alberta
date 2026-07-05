@@ -1,9 +1,9 @@
-title: 'UFO Collection'
-short_title: 'UFO Collection'
+title: 'UFOs and UAP by Canadian Province'
+short_title: 'UFOs and UAP by Canadian Province'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Practical guides across UFO, organized for fast browsing and comparison.'
-tagline: 'Start with the overview, then follow the sections that match your goal'
+description: 'Province- and territory-level guides to UFO and UAP reports, records, and explanations across Canada.'
+tagline: 'Compare sightings, records, and explanations across Canadian provinces and territories.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'cluster-diagram'
-ui_bundle_version: 'build-1783100854'
+ui_bundle_version: 'build-1783277696'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
