@@ -179,8 +179,17 @@ site_image_description: A quiet Alberta prairie field at dusk with faint circula
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-ON" data-map-preview-preload="all">
-<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-ON" data-map-preview-preload="8">
+<nav class="interactive-map-region-nav" aria-label="Map regions">
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="atlantic-canada" aria-label="Focus map on Atlantic Canada"><span>Atlantic Canada</span><small>4</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="central-canada" aria-label="Focus map on Central Canada"><span>Central Canada</span><small>2</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="northern-canada" aria-label="Focus map on Northern Canada"><span>Northern Canada</span><small>3</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="prairie-provinces" aria-label="Focus map on Prairie Provinces"><span>Prairie Provinces</span><small>3</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="west-coast" aria-label="Focus map on West Coast"><span>West Coast</span><small>1</small></button>
+</nav>
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
+<span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
+</div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
 <img src="{{ '/assets/images/Ontario_f9f742-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
