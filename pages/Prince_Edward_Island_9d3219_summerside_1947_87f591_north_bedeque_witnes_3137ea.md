@@ -385,16 +385,16 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
+        <p class="fr-book-author">By Chris A. Rutkowski</p>
+
+        <p class="fr-book-desc">Gives Canadian context for evaluating named-witness cases and regional reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -402,16 +402,16 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
         </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
-        
-        <p class="fr-book-desc">Gives Canadian context for evaluating named-witness cases and regional reports.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides historical context for early saucer reports and how cases are catalogued.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -425,7 +425,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Over+America%3A+The+UFO+Craze+of+1947+Gordon+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Over America: The UFO Craze of 1947">Flying Saucers Over America: The UFO Craze of 1947</a>
         </h4>
         <p class="fr-book-author">By Gordon Arnold</p>
-        
+
         <p class="fr-book-desc">Places the brief Prince Edward Island sighting inside the same first flying-disc panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Over+America%3A+The+UFO+Craze+of+1947+Gordon+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,16 +436,16 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+Over+Canada%3A+Personal+Accounts+of+Sightings+and+Close+Encounters+John+Robert+Colombo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Over Canada: Personal Accounts of Sightings and Close Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+          <a href="https://www.amazon.com/s?k=UFOs+Over+Canada%3A+Personal+Accounts+of+Sightings+and+Close+Encounters+John+Robert+Colombo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Over Canada: Personal Accounts of Sightings and Close Encounters">UFOs Over Canada: Personal Accounts of Sightings and Close En...</a>
         </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
+        <p class="fr-book-author">By John Robert Colombo</p>
+
+        <p class="fr-book-desc">Helps readers understand how Canadian UFO testimony is preserved and presented.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+Over+Canada%3A+Personal+Accounts+of+Sightings+and+Close+Encounters+John+Robert+Colombo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,7 +453,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Over+America%3A+The+UFO+Craze+of+1947&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Over America: The UFO Craze of 1947</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Over+America%3A+The+UFO+Craze+of+1947&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Over America: The UFO Craze of 1947</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

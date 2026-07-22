@@ -336,7 +336,7 @@ That leaves a nuanced conclusion. The radioactive samples did not prove that an 
           <a href="https://www.amazon.com/s?k=The+UFO+Evidence+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
         </h4>
         <p class="fr-book-author">By Richard H. Hall</p>
-        
+
         <p class="fr-book-desc">Covers documented UFO reports, investigations, and debates about physical traces and scientific evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Evidence+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ That leaves a nuanced conclusion. The radioactive samples did not prove that an 
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explores how physical evidence and witness reports should be assessed, echoing the proof-versus-interest distinction in the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ That leaves a nuanced conclusion. The radioactive samples did not prove that an 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Examines government records, official investigations, and evidentiary standards relevant to evaluating claims like radioactive samples.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ That leaves a nuanced conclusion. The radioactive samples did not prove that an 
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
         <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
         <p class="fr-book-desc">Focuses on evaluating physical evidence and scientific investigations, directly relevant to questions about what radioactive samples can...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -384,7 +384,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
         </h4>
         <p class="fr-book-author">By Ross Coulthart</p>
-        
+
         <p class="fr-book-desc">Examines modern UAP evidence, official records and aviation-related encounters in a contemporary context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses heavily on pilot, military and aviation witness reports, aligning closely with aviation-recorded UAP cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how advanced aerospace technology can influence interpretations of unusual aerial sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports without assuming extraordinary explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

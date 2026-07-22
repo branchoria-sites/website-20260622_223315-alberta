@@ -347,7 +347,7 @@ For readers exploring British Columbia's UFO history, that distinction is essent
           <a href="https://www.amazon.com/s?k=The+UFO+Handbook+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
         </h4>
         <p class="fr-book-author">By Allan Hendry</p>
-        
+
         <p class="fr-book-desc">Especially relevant to the McRoberts photo page because it focuses on evaluating UFO reports and the verification problems behind individ...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Handbook+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ For readers exploring British Columbia's UFO history, that distinction is essent
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">A strong parent-topic recommendation for readers evaluating how photographic cases fit into wider claims about credible UFO evidence and...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,16 +375,16 @@ For readers exploring British Columbia's UFO history, that distinction is essent
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigator&#x27;s Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EjlHngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Investigator&#x27;s Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigator&#x27;s Manual">UFO Investigator&#x27;s Manual</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
-        
-        <p class="fr-book-desc">Useful for readers interested in how UFO claims, including photographic evidence, are investigated and compared across historical cases.</p>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+
+        <p class="fr-book-desc">Matches the page’s emphasis on cautious investigation, unexplained cases, and the limits of evidence in single UFO reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -398,7 +398,7 @@ For readers exploring British Columbia's UFO history, that distinction is essent
           <a href="https://www.amazon.com/s?k=UFOs%3A+A+Scientist+Explains+What+We+Know+%28And+Don%27t+Know%29+Robert+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: A Scientist Explains What We Know (And Don&#x27;t Know)">UFOs: A Scientist Explains What We Know (And Don&#x27;t Know)</a>
         </h4>
         <p class="fr-book-author">By Robert Powell</p>
-        
+
         <p class="fr-book-desc">Directly supports the page’s evidence-evaluation angle by focusing on what can and cannot be concluded from UFO data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs%3A+A+Scientist+Explains+What+We+Know+%28And+Don%27t+Know%29+Robert+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For readers exploring British Columbia's UFO history, that distinction is essent
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Investigator%27s+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Investigator&#x27;s Manual</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

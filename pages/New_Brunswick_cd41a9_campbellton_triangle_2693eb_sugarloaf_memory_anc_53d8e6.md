@@ -339,27 +339,10 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Directly explores how folklore, place, and extraordinary sightings become lasting cultural stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
-        
-        <p class="fr-book-desc">Represents the broader cultural world of remembered UFO experiences and how they become embedded in public consciousness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -373,7 +356,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides context for why certain sightings remain part of public conversation long after the events themselves.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +373,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Helps explain why community stories tied to landmarks and shared memory survive across generations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,9 +382,26 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+        </h4>
+        <p class="fr-book-author">By Whitley Strieber</p>
+
+        <p class="fr-book-desc">On December 26th, 1985, Whitley Strieber was woken in his isolated cabin in upstate New York, he saw a creature in his bedroom. His next...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Communion+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

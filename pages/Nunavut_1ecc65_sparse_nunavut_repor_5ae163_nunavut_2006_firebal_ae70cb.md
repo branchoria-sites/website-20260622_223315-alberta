@@ -371,27 +371,10 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for distinguishing unexplained reports from likely astronomical events.</p>
+
+        <p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
-        <p class="fr-book-desc">Provides context for distinguishing unexplained reports from likely astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -405,7 +388,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
           <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
         </h4>
         <p class="fr-book-author">By Peter Jenniskens</p>
-        
+
         <p class="fr-book-desc">Directly addresses bright meteor events that can generate UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +405,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
         </h4>
         <p class="fr-book-author">By Lewis, John S.</p>
-        
+
         <p class="fr-book-desc">Helps explain the natural origins of spectacular fireball and meteor observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,9 +414,26 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nightwatch : a practical guide to viewing the universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+
+        <p class="fr-book-desc">Explains visible celestial phenomena often mistaken for unusual objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain of iron and ice</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

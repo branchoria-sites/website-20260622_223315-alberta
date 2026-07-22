@@ -383,7 +383,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Encourages readers to compare unexplained reports with aviation and observational evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Focuses on evaluating witness reports and separating misidentifications from genuinely unexplained events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Helps readers understand military aviation programs and why unusual aircraft activity can be misinterpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

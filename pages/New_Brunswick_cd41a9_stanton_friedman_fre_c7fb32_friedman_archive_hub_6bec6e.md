@@ -332,7 +332,7 @@ That is why Fredericton became a UFO archive hub. The city inherited a research 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides modern context for the kinds of cases and documentation preserved in major UFO archives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -349,7 +349,7 @@ That is why Fredericton became a UFO archive hub. The city inherited a research 
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Matches the archival emphasis on preserving correspondence, records, and research history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ That is why Fredericton became a UFO archive hub. The city inherited a research 
           <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers and Science">Flying Saucers and Science</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Reflects the kinds of research, correspondence, and arguments represented in the collection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ That is why Fredericton became a UFO archive hub. The city inherited a research 
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Useful for understanding the broader research landscape reflected in the Fredericton archive.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

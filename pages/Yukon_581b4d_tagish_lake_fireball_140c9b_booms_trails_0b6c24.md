@@ -346,7 +346,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
           <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
         </h4>
         <p class="fr-book-author">By Harry Y. McSween</p>
-        
+
         <p class="fr-book-desc">Explains meteor fireballs, atmospheric entry, fragmentation, and the science behind events like Tagish Lake.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in the Milky Way">Coming of age in the Milky Way</a>
         </h4>
         <p class="fr-book-author">By Timothy Ferris</p>
-        
+
         <p class="fr-book-desc">Helps readers understand astronomical observations and why unusual sky events can seem mysterious.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
         </h4>
         <p class="fr-book-author">By Lewis, John S.</p>
-        
+
         <p class="fr-book-desc">Provides context for dramatic fireball events, explosions, and public reactions to celestial impacts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
           <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the skies!">Death from the skies!</a>
         </h4>
         <p class="fr-book-author">By Philip C. Plait</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: End of the world (Astronomy), Nonfiction, Physics, Science, Astronomy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

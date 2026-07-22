@@ -357,16 +357,16 @@ That balanced approach explains why some coastal sightings become more convincin
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Encyclopedia of Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J45wQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Encyclopedia of Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
         </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains how stars, planets, and atmospheric conditions affect what observers see near the horizon.</p>
+        <p class="fr-book-author">By O. Richard Norton</p>
+
+        <p class="fr-book-desc">Useful for distinguishing brief meteor events from longer-lasting horizon sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,7 +380,7 @@ That balanced approach explains why some coastal sightings become more convincin
           <a href="https://www.amazon.com/s?k=The+handy+weather+answer+book+Walter+A.+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The handy weather answer book">The handy weather answer book</a>
         </h4>
         <p class="fr-book-author">By Walter A. Lyons</p>
-        
+
         <p class="fr-book-desc">Covers atmospheric phenomena that can alter the appearance of distant lights and horizons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+handy+weather+answer+book+Walter+A.+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,16 +391,16 @@ That balanced approach explains why some coastal sightings become more convincin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch: A Practical Guide to Viewing the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nightwatch : a practical guide to viewing the universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch: A Practical Guide to Viewing the Universe">NightWatch: A Practical Guide to Viewing the Universe</a>
+          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Explains how stars, planets, and atmospheric conditions affect what observers see near the horizon.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ That balanced approach explains why some coastal sightings become more convincin
           <a href="https://www.amazon.com/s?k=Peterson+Field+Guide+to+Stars+and+Planets+Jay+M.+Pasachoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peterson Field Guide to Stars and Planets">Peterson Field Guide to Stars and Planets</a>
         </h4>
         <p class="fr-book-author">By Jay M. Pasachoff, Wil Tirion et al.</p>
-        
+
         <p class="fr-book-desc">Helps identify bright celestial objects often mistaken for unusual lights over the sea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Peterson+Field+Guide+to+Stars+and+Planets+Jay+M.+Pasachoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ That balanced approach explains why some coastal sightings become more convincin
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+handy+weather+answer+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The handy weather answer book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+to+Viewing+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch: A Practical to Viewing the Universe books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge Encyclopedia of Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+handy+weather+answer+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The handy weather answer book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+to+viewing+the+universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nightwatch : a practical to viewing the universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

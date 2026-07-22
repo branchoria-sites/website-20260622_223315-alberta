@@ -371,13 +371,13 @@ For Nova Scotia's UFO history, the consequence is significant. Lesser-known repo
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
         </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
-        
+        <p class="fr-book-author">By Chris A. Rutkowski</p>
+
         <p class="fr-book-desc">Directly connects to Canadian UFO investigations and the documentary trails discussed in archival searches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For Nova Scotia's UFO history, the consequence is significant. Lesser-known repo
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explains how official records, government reporting systems, and documentary evidence are used in UFO research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For Nova Scotia's UFO history, the consequence is significant. Lesser-known repo
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how agencies created, stored, and categorized UFO-related records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For Nova Scotia's UFO history, the consequence is significant. Lesser-known repo
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Provides historical context, case documentation, and research methods useful when tracing archival records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

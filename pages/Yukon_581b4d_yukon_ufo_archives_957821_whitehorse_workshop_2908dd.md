@@ -349,7 +349,7 @@ In that sense, the Whitehorse meeting was less a UFO event than a case study in 
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
         </h4>
         <p class="fr-book-author">By Ross Coulthart</p>
-        
+
         <p class="fr-book-desc">Strong focus on reporting systems, institutions, and information flow.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ In that sense, the Whitehorse meeting was less a UFO event than a case study in 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Highlights official and unofficial reporting channels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ In that sense, the Whitehorse meeting was less a UFO event than a case study in 
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Examines investigation procedures and reporting shortcomings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ In that sense, the Whitehorse meeting was less a UFO event than a case study in 
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
         <p class="fr-book-desc">Explores cultural and institutional responses to anomalous reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

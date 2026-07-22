@@ -388,7 +388,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides the foundational framework for evaluating close-encounter cases like Falcon Lake.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Examines documented UFO incidents and official investigations, matching Falcon Lake&#x27;s evidence-focused discussion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Explores competing interpretations of unexplained encounters and why cases remain disputed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in comparing Falcon Lake with other evidence-rich UFO cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -367,13 +367,30 @@ For Alberta’s wider UFO history, that makes Maple Flag less a mystery in itsel
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+
+        <p class="fr-book-desc">Focuses on classification and investigation of sightings, including misidentifications of conventional phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Directly addresses UFO reports and emphasizes evaluating sightings using aviation and official-source context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +407,7 @@ For Alberta’s wider UFO history, that makes Maple Flag less a mystery in itsel
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores how secret military testing and unusual aircraft activity contribute to UFO narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +424,7 @@ For Alberta’s wider UFO history, that makes Maple Flag less a mystery in itsel
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides insight into advanced military aircraft and how unfamiliar aviation technology can be misinterpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,26 +433,9 @@ For Alberta’s wider UFO history, that makes Maple Flag less a mystery in itsel
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fighter+Pilot%3A+The+Memoirs+of+Legendary+Ace+Robin+Olds+Robin+Olds+and+Christina+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighter Pilot: The Memoirs of Legendary Ace Robin Olds on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fighter+Pilot%3A+The+Memoirs+of+Legendary+Ace+Robin+Olds+Robin+Olds+and+Christina+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighter Pilot: The Memoirs of Legendary Ace Robin Olds">Fighter Pilot: The Memoirs of Legendary Ace Robin Olds</a>
-        </h4>
-        <p class="fr-book-author">By Robin Olds and Christina Olds</p>
-        
-        <p class="fr-book-desc">Helps readers understand military air operations, formations, training, and pilot perspectives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fighter+Pilot%3A+The+Memoirs+of+Legendary+Ace+Robin+Olds+Robin+Olds+and+Christina+Olds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

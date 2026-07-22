@@ -342,7 +342,7 @@ For Ontario's UFO history, the significance lies less in any specific sighting t
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Focuses on scientific evaluation of sightings, mirroring the tension between experimental research and assessment committees.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +359,7 @@ For Ontario's UFO history, the significance lies less in any specific sighting t
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Examines official UFO investigations, policy responses, and Cold War-era programs comparable to Magnet and Second Storey.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For Ontario's UFO history, the significance lies less in any specific sighting t
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Explains how governments organized and evaluated UFO investigations during the early Cold War era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,16 +387,16 @@ For Ontario's UFO history, the significance lies less in any specific sighting t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Covers Project Magnet, Wilbert B. Smith, and related Canadian UFO history topics.</p>
+        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+
+        <p class="fr-book-desc">Provides context on how governments assess unexplained aerial phenomena and official reporting structures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

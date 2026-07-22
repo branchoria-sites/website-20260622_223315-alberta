@@ -346,7 +346,7 @@ For historians and investigators, the most careful approach is to keep the cases
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explores methods for evaluating sightings and distinguishing stronger cases from weaker reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For historians and investigators, the most careful approach is to keep the cases
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Provides historical context for government UFO record-keeping and the treatment of reported sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For historians and investigators, the most careful approach is to keep the cases
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses on documented cases, official records, and witness testimony, matching the article&#x27;s emphasis on archival evidence versus later r...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For historians and investigators, the most careful approach is to keep the cases
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Examines how stories evolve through folklore and memory, directly relating to the blending of separate local accounts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

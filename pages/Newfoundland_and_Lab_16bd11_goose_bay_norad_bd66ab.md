@@ -435,7 +435,7 @@ For Newfoundland and Labrador’s wider UFO story, Goose Bay is the reminder tha
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Directly examines military, pilot, radar, and government reporting issues that mirror NORAD-related UFO questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For Newfoundland and Labrador’s wider UFO story, Goose Bay is the reminder tha
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Directly examines military, pilot, radar, and government reporting issues that mirror NORAD-related UFO questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ For Newfoundland and Labrador’s wider UFO story, Goose Bay is the reminder tha
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides context for secretive aircraft development that can influence public interpretations of unusual sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ For Newfoundland and Labrador’s wider UFO story, Goose Bay is the reminder tha
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Focuses on official investigation methods, helping readers understand how unusual aerial reports are evaluated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

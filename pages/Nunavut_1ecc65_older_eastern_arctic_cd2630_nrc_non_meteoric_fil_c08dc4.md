@@ -352,30 +352,13 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
-        
-        <p class="fr-book-desc">Directly connects to Canada&#x27;s archival handling of UFO reports and the bureaucratic context surrounding NRC-era files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explains how unexplained aerial reports were classified, investigated, and often remained unresolved without implying extraordinary concl...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +375,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Useful for readers interested in how unusual reports are interpreted historically rather than accepted at face value.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +392,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
           <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Explores competing interpretations of unexplained reports and the limits of available evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,9 +401,26 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By Chris A. Rutkowski</p>
+
+        <p class="fr-book-desc">Directly connects to Canada&#x27;s archival handling of UFO reports and the bureaucratic context surrounding NRC-era files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

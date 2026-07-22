@@ -445,7 +445,7 @@ The best final reading of Nova Scotia is therefore neither sensational nor dismi
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explores how official investigations and witness testimony shape major UFO cases, paralleling the Nova Scotia story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ The best final reading of Nova Scotia is therefore neither sensational nor dismi
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Examines how UFO reports become official case files, a key theme in the Shag Harbour incident.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ The best final reading of Nova Scotia is therefore neither sensational nor dismi
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides foundational context for evaluating famous cases such as Shag Harbour and understanding UFO reporting patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ The best final reading of Nova Scotia is therefore neither sensational nor dismi
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Offers a comparison to Shag Harbour as a high-profile incident involving official attention and lasting debate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

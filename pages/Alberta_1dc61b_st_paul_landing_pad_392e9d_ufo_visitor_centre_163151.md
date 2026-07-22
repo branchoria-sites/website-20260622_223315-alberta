@@ -324,7 +324,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Connects public fascination with UFOs to the wider cultural interest that supports destinations such as UFO-themed visitor centres.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -341,7 +341,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides broad UFO culture context that helps explain why attractions built around UFO themes continue to draw visitors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Explores how stories and beliefs evolve into enduring cultural phenomena, much like a UFO landmark becoming a tourism attraction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
         <p class="fr-book-desc">Examines how UFO narratives shape communities, identities, and cultural institutions, paralleling the evolution of a UFO tourism site.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

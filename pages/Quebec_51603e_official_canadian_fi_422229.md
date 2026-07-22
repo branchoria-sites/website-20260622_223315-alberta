@@ -404,7 +404,7 @@ For Quebec UFO history, that is the real significance of the official record. It
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses on official reports, government handling, aviation evidence, and institutional responses to unexplained sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For Quebec UFO history, that is the real significance of the official record. It
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Directly addresses governmental recordkeeping, investigations, and archival treatment of UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For Quebec UFO history, that is the real significance of the official record. It
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
         <p class="fr-book-desc">Explores how modern institutions, records, and narratives shape public understanding of UFO phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For Quebec UFO history, that is the real significance of the official record. It
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Provides insight into how military and official investigations handled unexplained aerial reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

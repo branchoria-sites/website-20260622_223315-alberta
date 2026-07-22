@@ -332,16 +332,16 @@ More than three decades after its installation, the monument remains one of Onta
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
-        
-        <p class="fr-book-desc">Places Moonbeam&#x27;s UFO-themed identity within the broader landscape of Canadian UFO stories and folklore.</p>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+
+        <p class="fr-book-desc">Provides context for how UFO themes become embedded in public imagination, mirroring Moonbeam&#x27;s use of UFO imagery.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -349,16 +349,16 @@ More than three decades after its installation, the monument remains one of Onta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for how UFO themes become embedded in public imagination, mirroring Moonbeam&#x27;s use of UFO imagery.</p>
+        <p class="fr-book-author">By Chris A. Rutkowski</p>
+
+        <p class="fr-book-desc">Places Moonbeam&#x27;s UFO-themed identity within the broader landscape of Canadian UFO stories and folklore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -372,7 +372,7 @@ More than three decades after its installation, the monument remains one of Onta
           <a href="https://www.amazon.com/s?k=Roadside+America+Jan+Jennings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roadside America">Roadside America</a>
         </h4>
         <p class="fr-book-author">By Jan Jennings</p>
-        
+
         <p class="fr-book-desc">Explains the tradition of roadside monuments and automobile-era tourism that motivated Moonbeam&#x27;s flying saucer project.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roadside+America+Jan+Jennings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ More than three decades after its installation, the monument remains one of Onta
           <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">First published 1972.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ More than three decades after its installation, the monument remains one of Onta
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roadside+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roadside America</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roadside+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roadside America</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

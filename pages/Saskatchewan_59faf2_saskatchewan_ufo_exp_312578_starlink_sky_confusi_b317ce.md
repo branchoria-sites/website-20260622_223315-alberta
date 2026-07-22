@@ -390,30 +390,13 @@ As a result, investigators increasingly have to distinguish between genuinely un
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Teaches readers how to recognize celestial objects and distinguish unusual sightings from known phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how UFO reports are investigated and how misidentifications occur.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,10 +413,27 @@ As a result, investigators increasingly have to distinguish between genuinely un
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
+
         <p class="fr-book-desc">Explores interpretation of unusual aerial observations and the challenges of identification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
+
+        <p class="fr-book-desc">Provides background on how satellites move and why formations such as Starlink trains appear as they do.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -447,7 +447,7 @@ As a result, investigators increasingly have to distinguish between genuinely un
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Teaches readers how to recognize celestial objects and distinguish unusual sightings from known phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ As a result, investigators increasingly have to distinguish between genuinely un
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

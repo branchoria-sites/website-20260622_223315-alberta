@@ -345,30 +345,13 @@ For students of Yukon UFO history, the lesson is less dramatic than many headlin
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Explores military tracking, intelligence assessments, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides context on advanced aircraft, defense systems, and how unusual aerial observations can be interpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +368,7 @@ For students of Yukon UFO history, the lesson is less dramatic than many headlin
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses on evidence, military observations, and the challenge of reaching conclusions when information is incomplete.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +385,7 @@ For students of Yukon UFO history, the lesson is less dramatic than many headlin
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Examines how limited evidence, secrecy, and missing information can shape interpretations of aerial incidents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,9 +394,26 @@ For students of Yukon UFO history, the lesson is less dramatic than many headlin
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+
+        <p class="fr-book-desc">A ground-breaking memoir from Luis Elizondo, the former head of the Pentagon&#x27;s Advanced Aerospace Threat Identification Programme, reveal...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

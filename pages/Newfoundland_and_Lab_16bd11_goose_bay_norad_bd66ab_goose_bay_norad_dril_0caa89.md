@@ -402,7 +402,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides accessible insight into military aircraft development and operations often discussed in airspace mystery and defense contexts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,16 +413,16 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasizes careful evaluation of military activity, radar reports, and witness testimony before reaching conclusions.</p>
+        <p class="fr-book-author">By Eric Schlosser</p>
+
+        <p class="fr-book-desc">Explains North American defense infrastructure, strategic command systems, and military operational procedures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -436,7 +436,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores how secret military programs and exercises can influence public interpretations of unusual aerial observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,16 +447,16 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Red+October+Tom+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Red October on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+          <a href="https://www.amazon.com/s?k=The+Hunt+for+Red+October+Tom+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Red October">The Hunt for Red October</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
-        <p class="fr-book-desc">Emphasizes careful evaluation of military activity, radar reports, and witness testimony before reaching conclusions.</p>
+        <p class="fr-book-author">By Tom Clancy</p>
+
+        <p class="fr-book-desc">Introduces NORAD, Cold War defense systems, tracking operations, and military readiness themes familiar to readers interested in defense...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Hunt+for+Red+October+Tom+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -464,7 +464,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

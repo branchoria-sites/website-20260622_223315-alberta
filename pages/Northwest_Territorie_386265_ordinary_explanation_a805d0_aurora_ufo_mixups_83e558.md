@@ -395,7 +395,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson</p>
-        
+
 <p class="fr-book-desc">Helps observers distinguish sky phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Discusses evaluation of mistaken sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
 <a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atmosphere, Weather and Climate">Atmosphere, Weather and Climate</a>
 </h4>
 <p class="fr-book-author">By Roger Barry, Richard Chorley et al.</p>
-        
+
 <p class="fr-book-desc">Provides atmospheric context for visual effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
 <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Lights">The Northern Lights</a>
 </h4>
 <p class="fr-book-author">By Lucy Jago</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Auroras, Biography, Geophysicists, Noorderlicht, Polarlicht.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

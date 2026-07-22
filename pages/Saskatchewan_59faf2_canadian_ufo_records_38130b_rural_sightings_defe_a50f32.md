@@ -376,7 +376,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Directly addresses how military and governmental organizations have historically handled reported sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explains how military, aviation, and government institutions evaluate unidentified aerial reports and why only some cases receive officia...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
         <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
         <p class="fr-book-desc">Examines standards of evidence and institutional responses to unexplained aerial reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Shows how official investigations prioritize cases and why many reports never become major defense concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

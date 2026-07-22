@@ -345,7 +345,7 @@ Within Prince Edward Island's UFO history, that uncertainty is arguably the most
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Directly addresses how UFO sightings can be interpreted through observational errors, aircraft, atmospheric effects, and limited evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ Within Prince Edward Island's UFO history, that uncertainty is arguably the most
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides context for evaluating unexplained aerial reports and the evidentiary challenges surrounding them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Within Prince Edward Island's UFO history, that uncertainty is arguably the most
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides broader aviation context and illustrates how unfamiliar aircraft can generate public misidentifications and speculation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Within Prince Edward Island's UFO history, that uncertainty is arguably the most
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Explores aviation-related theories and historical speculation often associated with unusual aerial sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

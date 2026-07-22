@@ -391,7 +391,7 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
+
         <p class="fr-book-desc">Explores explanations for UFO reports and public fascination with sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,16 +402,16 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Provides context for meteor events that often trigger UFO sighting waves.</p>
+        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+
+        <p class="fr-book-desc">Directly addresses UFO reports, witness accounts, and how cases are evaluated.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -425,7 +425,7 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how to separate patterns, perception, and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Helps readers identify common celestial objects frequently mistaken for UFOs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

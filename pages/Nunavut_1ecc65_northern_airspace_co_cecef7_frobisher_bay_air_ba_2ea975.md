@@ -332,7 +332,7 @@ For anyone studying Nunavut's UFO history, that context is essential. A sighting
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Supports the article&#x27;s discussion of how military and aviation reporting systems influence the recording and interpretation of unusual ae...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -349,7 +349,7 @@ For anyone studying Nunavut's UFO history, that context is essential. A sighting
           <a href="https://www.amazon.com/s?k=Arctic+Dreams+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arctic Dreams">Arctic Dreams</a>
         </h4>
         <p class="fr-book-author">By Barry Lopez</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the broader Arctic environment in which northern aviation, military activity and unusual sky observations occurred.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arctic+Dreams+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ For anyone studying Nunavut's UFO history, that context is essential. A sighting
           <a href="https://www.amazon.com/s?k=The+Cold+Vanish+Jon+Billman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold Vanish">The Cold Vanish</a>
         </h4>
         <p class="fr-book-author">By Jon Billman</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Sociology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cold+Vanish+Jon+Billman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For anyone studying Nunavut's UFO history, that context is essential. A sighting
           <a href="https://www.amazon.com/s?k=Frozen+in+Time+Mitchell+Zuckoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frozen in Time">Frozen in Time</a>
         </h4>
         <p class="fr-book-author">By Mitchell Zuckoff</p>
-        
+
         <p class="fr-book-desc">Explains the strategic northern air routes and wartime aviation networks that led to Arctic airfield development such as Frobisher Bay.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Frozen+in+Time+Mitchell+Zuckoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

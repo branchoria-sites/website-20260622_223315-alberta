@@ -374,7 +374,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Helps readers understand historical categorization and investigation of reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
           <a href="https://www.amazon.com/s?k=Arctic+Dreams+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arctic Dreams">Arctic Dreams</a>
         </h4>
         <p class="fr-book-author">By Barry Lopez</p>
-        
+
         <p class="fr-book-desc">Provides wider context for the geography and culture behind Eastern Arctic archival records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arctic+Dreams+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -348,7 +348,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
         </h4>
         <p class="fr-book-author">By Ross Coulthart</p>
-        
+
         <p class="fr-book-desc">Examines modern unexplained aerial phenomena and official reporting, closely aligning with discussion of unresolved aviation sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses heavily on reports from trained observers including airline and military pilots, matching the article&#x27;s core theme.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides aviation and aerospace context useful for readers exploring possible explanations for unusual observations in the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Connects aviation, defense reporting, and unexplained aerospace claims that overlap with pilot-sighting interests.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

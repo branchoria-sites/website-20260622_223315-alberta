@@ -385,7 +385,7 @@ For historians and researchers, the value of these files lies in the paper trail
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Extensively discusses pilot reports, official records, and how aviation sightings are documented.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For historians and researchers, the value of these files lies in the paper trail
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides context for how unusual aircraft and aerospace technologies can generate misidentifications.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For historians and researchers, the value of these files lies in the paper trail
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Connects unexplained aerospace claims with aviation, defense, and official documentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For historians and researchers, the value of these files lies in the paper trail
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
         <p class="fr-book-author">By Ernest K Gann</p>
-        
+
         <p class="fr-book-desc">Offers insight into pilot observation, flight operations, and aviation safety culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

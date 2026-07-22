@@ -392,7 +392,7 @@ Nova Scotia's combination of coastal airports, Atlantic flight routes, search-an
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Explains observational errors and cognitive biases that can affect eyewitness interpretations of lights and aircraft.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Nova Scotia's combination of coastal airports, Atlantic flight routes, search-an
           <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder: An Explanation of the Art of Flying">Stick and Rudder: An Explanation of the Art of Flying</a>
         </h4>
         <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
-        
+
         <p class="fr-book-desc">Provides accessible understanding of aircraft movement, approaches, turns, and flight behavior that observers often misinterpret.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Nova Scotia's combination of coastal airports, Atlantic flight routes, search-an
           <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a>
         </h4>
         <p class="fr-book-author">By Dale Purves, R. Beau Lotto</p>
-        
+
         <p class="fr-book-desc">Directly addresses how human perception can misjudge distance, motion, and visual cues, which is central to aircraft-misidentification re...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Nova Scotia's combination of coastal airports, Atlantic flight routes, search-an
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides context for aerial-sighting reports while encouraging consideration of aviation-related explanations and witness observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

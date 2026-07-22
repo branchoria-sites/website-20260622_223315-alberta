@@ -348,10 +348,27 @@ That legacy helps explain why Vancouver occupies a distinctive place within the 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Shows how organized networks and public testimony helped move UFO reports into wider public discussion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+
+        <p class="fr-book-desc">Explains how UFO reports were collected, discussed, and publicized during the same era as flying saucer clubs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -365,7 +382,7 @@ That legacy helps explain why Vancouver occupies a distinctive place within the 
           <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
         </h4>
         <p class="fr-book-author">By John Fuller</p>
-        
+
         <p class="fr-book-desc">Illustrates how UFO narratives spread through lectures, media coverage, and enthusiast communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +399,7 @@ That legacy helps explain why Vancouver occupies a distinctive place within the 
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
         <p class="fr-book-desc">Examines the social and cultural mechanisms through which UFO beliefs become organized and publicly shared.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,26 +408,9 @@ That legacy helps explain why Vancouver occupies a distinctive place within the 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
-        
-        <p class="fr-book-desc">Captures the public enthusiasm and organized advocacy that fueled saucer clubs and mass interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

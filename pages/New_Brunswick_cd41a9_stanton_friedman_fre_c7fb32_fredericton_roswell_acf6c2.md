@@ -338,7 +338,7 @@ That distinction captures the broader significance of the Roswell link in New Br
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
         </h4>
         <p class="fr-book-author">By Ronald Story</p>
-        
+
         <p class="fr-book-desc">Places Roswell and Friedman&#x27;s work within the wider history of UFO culture and investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ That distinction captures the broader significance of the Roswell link in New Br
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Addresses the role of credentials and testimony in UFO debates, echoing themes from the article.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That distinction captures the broader significance of the Roswell link in New Br
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Provides insight into Friedman&#x27;s broader research and arguments that shaped his public reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That distinction captures the broader significance of the Roswell link in New Br
           <a href="https://www.amazon.com/s?k=The+Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Helped establish Roswell as a modern UFO legend, a central theme of the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -351,7 +351,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
           <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
         </h4>
         <p class="fr-book-author">By O. Richard Norton</p>
-        
+
         <p class="fr-book-desc">Focuses on meteorite discoveries, recoveries, and the scientific value of recovered fragments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
         </h4>
         <p class="fr-book-author">By Lewis, John S.</p>
-        
+
         <p class="fr-book-desc">Covers impacts, meteor events, and the scientific investigation of objects arriving from space.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
           <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
         </h4>
         <p class="fr-book-author">By Robert Hutchison</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Meteorites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
           <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Very Short Introduction">Meteorites: A Very Short Introduction</a>
         </h4>
         <p class="fr-book-author">By Timothy McCoy</p>
-        
+
         <p class="fr-book-desc">Explains how meteorites are recovered, classified, and studied, directly matching the Tagish Lake recovery story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

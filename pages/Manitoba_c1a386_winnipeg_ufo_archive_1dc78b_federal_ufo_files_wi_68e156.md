@@ -371,7 +371,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explains investigation methods, reporting systems, and the challenges of evaluating sighting records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Examines how governments collected, handled, and archived UFO reports, directly relevant to fragmented official records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
           <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
+
         <p class="fr-book-desc">Highlights the use of historical records and archival sources to trace unusual aerial reports over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Written by a key official investigator and provides insight into how governments processed and documented UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

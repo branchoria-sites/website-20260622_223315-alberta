@@ -360,7 +360,7 @@ The most balanced reading is therefore straightforward. The St. Paul UFO Landing
 <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth and Mystery of UFOs">The Myth and Mystery of UFOs</a>
 </h4>
 <p class="fr-book-author">By Thomas E. Bullard</p>
-        
+
 <p class="fr-book-desc">Examines UFOs as a cultural phenomenon, aligning with the article&#x27;s interpretation of the pad.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The most balanced reading is therefore straightforward. The St. Paul UFO Landing
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides context for how UFO culture became part of public consciousness during the era that inspired landmarks like the St. Paul pad.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The most balanced reading is therefore straightforward. The St. Paul UFO Landing
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Explores the cultural and folkloric dimensions of UFO belief rather than proving landings, matching the article&#x27;s theme.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ The most balanced reading is therefore straightforward. The St. Paul UFO Landing
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">First published 1972.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

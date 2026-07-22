@@ -362,7 +362,7 @@ The key lesson is straightforward: a CADORS entry represents a reported aviation
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explains how sightings are documented, classified, and assessed rather than simply accepted as proof.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ The key lesson is straightforward: a CADORS entry represents a reported aviation
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Written by an aviation journalist and explores unusual aerospace claims, investigations, and official records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The key lesson is straightforward: a CADORS entry represents a reported aviation
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides aviation-industry context for how unusual aerial observations can intersect with classified aerospace activity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The key lesson is straightforward: a CADORS entry represents a reported aviation
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
         <p class="fr-book-author">By Ernest K Gann</p>
-        
+
         <p class="fr-book-desc">Offers valuable insight into pilot observation, reporting culture, and aviation operational realities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
