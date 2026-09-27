@@ -3,6 +3,7 @@ layout: default
 title: Branchoria
 permalink: /
 home: true
+last_modified_at: 2026-09-27
 homepage_audience_mode: production
 homepage_copy_policy: polished
 output_language: English
@@ -178,6 +179,8 @@ image: /assets/images/Nova_Scotia_117534-overview-social.jpg
 site_image_description: A quiet Alberta prairie field at dusk with faint circular marks in the grass and a wide sky above low farm buildings.
 ---
 
+
+<h1 class="home-structure-intro-title">UFOs and UAP by Canadian Province</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-ON" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
