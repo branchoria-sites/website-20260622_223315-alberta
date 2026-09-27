@@ -4,7 +4,7 @@ title_full: Island Skies Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /british-columbia-2f7c63-vancouver/
+permalink: /british-columbia-2f7c63-vancouver-island-skies/
 description: Focused pages that expand on Island Skies.
 date: '2026'
 layout: default

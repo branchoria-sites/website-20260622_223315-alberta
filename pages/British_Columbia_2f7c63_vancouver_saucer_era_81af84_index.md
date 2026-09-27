@@ -4,7 +4,7 @@ title_full: Vancouver Era Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /british-columbia-2f7c63-vancouver/
+permalink: /british-columbia-2f7c63-vancouver-vancouver-era/
 description: Focused pages that expand on Vancouver Era.
 date: '2026'
 layout: default
