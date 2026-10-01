@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-prairie-sighting/
 description: Focused pages that expand on Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_prairie_sighting_clu_40b8d6
 parent_title: Sightings

@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 05:20:29'
+last_modified_at: '2026-06-21 05:20:29'
 parent_title: Why Vancouver Island Keeps Reporting Strange Lights
 parent_permalink: /island-skies/
 parent_nav_short_title: Island Skies

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-manitoba-sighting-pa/
 description: Focused pages that expand on Patterns.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_manitoba_sighting_pa_d4edeb
 parent_title: Patterns

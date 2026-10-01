@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-duhamel-landing-mark/
 description: Focused pages that expand on Duhamel Marks.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_duhamel_landing_mark_e3bd5b
 parent_title: Duhamel Marks

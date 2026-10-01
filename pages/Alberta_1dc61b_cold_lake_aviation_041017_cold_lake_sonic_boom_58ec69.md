@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 04:27:24'
+last_modified_at: '2026-06-21 04:27:24'
 parent_title: How Aviation Shapes Alberta UFO Reports
 parent_permalink: /cold-lake/
 parent_nav_short_title: Cold Lake

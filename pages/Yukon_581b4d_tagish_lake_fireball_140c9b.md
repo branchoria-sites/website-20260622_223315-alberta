@@ -266,6 +266,7 @@ prev_link:
   short_title: Sky Clues
   heading_title: Why Yukon Skies Create Strange Sightings
 date: '2026-06-22 09:01:27 '
+last_modified_at: '2026-06-22 09:01:27 '
 header:
   og_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-overview-social.jpg
   preview_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-overview.webp

@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 00:49:15'
+last_modified_at: '2026-06-22 00:49:15'
 parent_title: How Defence History Shapes Nunavut UFO Claims
 parent_permalink: /airspace/
 parent_nav_short_title: Airspace

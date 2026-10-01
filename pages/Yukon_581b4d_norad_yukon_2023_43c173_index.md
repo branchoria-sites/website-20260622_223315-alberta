@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-norad-yukon-2023-43c173/
 description: Focused pages that expand on 2023 Object.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_norad_yukon_2023_43c173
 parent_title: 2023 Object

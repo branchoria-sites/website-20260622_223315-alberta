@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-northern-sky-explana/
 description: Focused pages that expand on Sky Clues.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_northern_sky_explana_5ca616
 parent_title: Sky Clues

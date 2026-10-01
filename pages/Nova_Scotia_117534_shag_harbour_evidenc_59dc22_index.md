@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-shag-harbour/
 description: Focused pages that expand on Shag Harbour.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nova_Scotia_117534_shag_harbour_evidenc_59dc22
 parent_title: Shag Harbour

@@ -248,6 +248,7 @@ prev_link:
   short_title: Frozen fragments
   heading_title: How frozen fragments solved the sky mystery
 date: '2026-06-22 09:01:34 '
+last_modified_at: '2026-06-22 09:01:34 '
 header:
   og_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-1-social.jpg
   preview_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-1.webp

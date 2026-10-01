@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-modern-ns-ufo/
 description: Focused pages that expand on Modern Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nova_Scotia_117534_modern_ns_ufo_report_4a2268
 parent_title: Modern Reports

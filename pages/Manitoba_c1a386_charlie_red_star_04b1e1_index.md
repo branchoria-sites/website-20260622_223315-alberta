@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-charlie-red-star/
 description: Focused pages that expand on Charlie Red Star.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_charlie_red_star_04b1e1
 parent_title: Charlie Red Star

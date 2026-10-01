@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-st-paul-landing-pad/
 description: Focused pages that expand on St Paul Pad.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_st_paul_landing_pad_392e9d
 parent_title: St Paul Pad

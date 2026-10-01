@@ -248,6 +248,7 @@ prev_link:
   short_title: Fireballs
   heading_title: How fireballs become UFO stories
 date: '2026-06-22 09:01:36 '
+last_modified_at: '2026-06-22 09:01:36 '
 header:
   og_image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616_satellite_rocket_spi_31b66f-Illustration-1-social.jpg
   preview_image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616_satellite_rocket_spi_31b66f-Illustration-1.webp

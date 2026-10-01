@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-light-explana/
 description: Focused pages that expand on Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_light_explana_929266
 parent_title: Explanations

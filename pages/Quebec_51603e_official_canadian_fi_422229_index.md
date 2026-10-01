@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-official-canadian-fi/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_official_canadian_fi_422229
 parent_title: Official Files
