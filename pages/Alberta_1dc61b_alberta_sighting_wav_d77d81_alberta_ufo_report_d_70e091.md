@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 04:27:27'
+last_modified_at: '2026-06-21 04:27:27'
 parent_title: Why Do Alberta UFO Reports Rise?
 parent_permalink: /sighting-waves/
 parent_nav_short_title: Sighting Waves

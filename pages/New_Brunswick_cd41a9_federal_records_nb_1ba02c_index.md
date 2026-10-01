@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-federal-records/
 description: Focused pages that expand on Federal Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_federal_records_nb_1ba02c
 parent_title: Federal Records

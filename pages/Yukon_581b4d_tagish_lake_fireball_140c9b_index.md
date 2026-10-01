@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-tagish-lake-fireball/
 description: Focused pages that expand on Tagish Fireball.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_tagish_lake_fireball_140c9b
 parent_title: Tagish Fireball

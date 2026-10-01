@@ -254,6 +254,7 @@ next_link:
   short_title: Instrument records
   heading_title: When instruments backed the witnesses
 date: '2026-06-22 09:01:31 '
+last_modified_at: '2026-06-22 09:01:31 '
 header:
   og_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-1-social.jpg
   preview_image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-cold-lake-aviation/
 description: Focused pages that expand on Cold Lake.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_cold_lake_aviation_041017
 parent_title: Cold Lake

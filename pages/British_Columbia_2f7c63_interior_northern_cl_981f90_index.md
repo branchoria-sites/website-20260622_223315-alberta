@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-interior/
 description: Focused pages that expand on Interior Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_interior_northern_cl_981f90
 parent_title: Interior Claims

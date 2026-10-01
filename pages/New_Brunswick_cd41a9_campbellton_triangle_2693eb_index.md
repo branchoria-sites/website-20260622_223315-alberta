@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-campbellton/
 description: Focused pages that expand on Campbellton.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_campbellton_triangle_2693eb
 parent_title: Campbellton

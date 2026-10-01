@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 03:12:37'
+last_modified_at: '2026-06-22 03:12:37'
 parent_title: Did Anything Land at Ebenezer?
 parent_permalink: /ebenezer/
 parent_nav_short_title: Ebenezer

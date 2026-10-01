@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-index/
 description: Focused pages that expand on Why Manitoba Matters In Canadian UFO History.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386
 parent_title: Why Manitoba Matters In Canadian UFO History

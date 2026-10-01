@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-prairie-pilot/
 description: Focused pages that expand on Pilot Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_prairie_pilot_report_38d18f
 parent_title: Pilot Reports

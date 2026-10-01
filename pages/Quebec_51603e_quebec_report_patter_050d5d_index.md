@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-report-patter/
 description: Focused pages that expand on Report Patterns.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_report_patter_050d5d
 parent_title: Report Patterns

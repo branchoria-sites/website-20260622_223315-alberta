@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-french-ufo-culture/
 description: Focused pages that expand on Local Culture.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_french_ufo_culture_c14935
 parent_title: Local Culture

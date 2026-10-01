@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 17:38:48'
+last_modified_at: '2026-06-21 17:38:48'
 parent_title: How Labrador's Air Defence Role Shapes UFO Questions
 parent_permalink: /goose-bay/
 parent_nav_short_title: Goose Bay

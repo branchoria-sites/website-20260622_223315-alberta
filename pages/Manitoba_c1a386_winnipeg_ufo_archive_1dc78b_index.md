@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-winnipeg-ufo-archive/
 description: Focused pages that expand on Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_winnipeg_ufo_archive_1dc78b
 parent_title: Archives

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-gander/
 description: Focused pages that expand on Gander.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774
 parent_title: Gander
