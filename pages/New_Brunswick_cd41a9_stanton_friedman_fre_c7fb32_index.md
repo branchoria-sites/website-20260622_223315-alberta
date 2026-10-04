@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-stanton-friedman/
 description: Focused pages that expand on Friedman.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32
 parent_title: Friedman

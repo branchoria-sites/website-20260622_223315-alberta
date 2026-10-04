@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-shelburne/
 description: Focused pages that expand on Shelburne Claims.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nova_Scotia_117534_shelburne_underwater_98cfba
 parent_title: Shelburne Claims

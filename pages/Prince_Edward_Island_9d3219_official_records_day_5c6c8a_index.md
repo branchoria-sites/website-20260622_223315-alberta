@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /prince-edward-island-9d3219-official/
 description: Focused pages that expand on Records.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Prince_Edward_Island_9d3219_official_records_day_5c6c8a
 parent_title: Records

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-sparse-nunavut-repor/
 description: Focused pages that expand on Sparse Reports.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nunavut_1ecc65_sparse_nunavut_repor_5ae163
 parent_title: Sparse Reports

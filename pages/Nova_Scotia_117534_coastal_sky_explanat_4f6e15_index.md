@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-coastal-sky/
 description: Focused pages that expand on Coastal Skies.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nova_Scotia_117534_coastal_sky_explanat_4f6e15
 parent_title: Coastal Skies

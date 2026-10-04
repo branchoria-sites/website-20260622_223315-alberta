@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-falcon-lake-case/
 description: Focused pages that expand on Falcon Lake.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Manitoba_c1a386_falcon_lake_case_34721b
 parent_title: Falcon Lake

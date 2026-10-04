@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-northern-airspace-co/
 description: Focused pages that expand on Airspace.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nunavut_1ecc65_northern_airspace_co_cecef7
 parent_title: Airspace

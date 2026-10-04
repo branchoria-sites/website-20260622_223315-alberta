@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-older-eastern-arctic/
 description: Focused pages that expand on Older Files.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nunavut_1ecc65_older_eastern_arctic_cd2630
 parent_title: Older Files

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-goose-bay/
 description: Focused pages that expand on Goose Bay.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab
 parent_title: Goose Bay

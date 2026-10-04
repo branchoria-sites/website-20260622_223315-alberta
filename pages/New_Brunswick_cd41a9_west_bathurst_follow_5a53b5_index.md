@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-west-bathurst/
 description: Focused pages that expand on West Bathurst.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: New_Brunswick_cd41a9_west_bathurst_follow_5a53b5
 parent_title: West Bathurst
