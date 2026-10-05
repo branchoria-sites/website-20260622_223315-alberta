@@ -14,7 +14,7 @@ parent_nav_short_title: Modern Reports
 parent_permalink: /modern-reports/
 ---
 
-# Explore Topics in Modern Reports
+## Explore Topics in Modern Reports
 
 The following pages expand on the main **[Modern Reports]({{ '/modern-reports/' | relative_url }})** page and cover its key branches in.
 
