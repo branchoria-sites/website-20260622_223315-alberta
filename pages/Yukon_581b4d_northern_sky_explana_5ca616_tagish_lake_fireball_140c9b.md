@@ -254,6 +254,7 @@ next_link:
   short_title: Satellites
   heading_title: The new UFO trap in dark skies
 date: '2026-06-22 09:01:37 '
+last_modified_at: '2026-06-22 09:01:37 '
 header:
   og_image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616_tagish_lake_fireball_140c9b-Illustration-1-social.jpg
   preview_image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616_tagish_lake_fireball_140c9b-Illustration-1.webp

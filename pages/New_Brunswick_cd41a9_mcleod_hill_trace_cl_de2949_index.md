@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-mcleod-hill-trace/
 description: Focused pages that expand on Mc Leod Hill.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949
 parent_title: Mc Leod Hill

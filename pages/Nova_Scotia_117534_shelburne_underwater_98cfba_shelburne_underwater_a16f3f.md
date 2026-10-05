@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 19:31:24'
+last_modified_at: '2026-06-21 19:31:24'
 parent_title: Did the Underwater Story Change the Case?
 parent_permalink: /shelburne-claims/
 parent_nav_short_title: Shelburne Claims

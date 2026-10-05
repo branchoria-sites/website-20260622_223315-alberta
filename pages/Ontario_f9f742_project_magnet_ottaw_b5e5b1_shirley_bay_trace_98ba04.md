@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 00:49:17'
+last_modified_at: '2026-06-22 00:49:17'
 parent_title: Did Ottawa Build A UFO Laboratory?
 parent_permalink: /project-magnet/
 parent_nav_short_title: Project Magnet

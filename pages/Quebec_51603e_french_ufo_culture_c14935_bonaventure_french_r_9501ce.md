@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 05:36:01'
+last_modified_at: '2026-06-22 05:36:01'
 parent_title: Why Quebec's UFO Stories Travel Differently
 parent_permalink: /local-culture/
 parent_nav_short_title: Local Culture

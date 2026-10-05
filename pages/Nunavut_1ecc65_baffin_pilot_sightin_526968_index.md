@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-baffin-pilot-sightin/
 description: Focused pages that expand on Pilot Sighting.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nunavut_1ecc65_baffin_pilot_sightin_526968
 parent_title: Pilot Sighting

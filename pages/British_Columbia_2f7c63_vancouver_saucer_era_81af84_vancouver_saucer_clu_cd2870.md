@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 05:20:19'
+last_modified_at: '2026-06-21 05:20:19'
 parent_title: How Vancouver Became a Saucer Era Hotspot
 parent_permalink: /vancouver-era/
 parent_nav_short_title: Vancouver Era

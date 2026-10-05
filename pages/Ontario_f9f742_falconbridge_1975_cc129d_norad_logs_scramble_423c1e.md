@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 02:05:06'
+last_modified_at: '2026-06-22 02:05:06'
 parent_title: What Happened At Falconbridge In 1975?
 parent_permalink: /falconbridge/
 parent_nav_short_title: Falconbridge

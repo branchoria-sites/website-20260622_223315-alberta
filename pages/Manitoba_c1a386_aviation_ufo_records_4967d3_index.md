@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-aviation-ufo-records/
 description: Focused pages that expand on Aviation Records.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Manitoba_c1a386_aviation_ufo_records_4967d3
 parent_title: Aviation Records

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-alberta-sighting-wav/
 description: Focused pages that expand on Sighting Waves.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Alberta_1dc61b_alberta_sighting_wav_d77d81
 parent_title: Sighting Waves

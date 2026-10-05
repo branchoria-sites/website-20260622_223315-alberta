@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 08:29:06'
+last_modified_at: '2026-06-22 08:29:06'
 parent_title: Why Was an Object Shot Down Over Yukon?
 parent_permalink: /2023-object/
 parent_nav_short_title: 2023 Object

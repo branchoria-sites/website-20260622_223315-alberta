@@ -201,6 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-22 04:24:32'
+last_modified_at: '2026-06-22 04:24:32'
 parent_title: Did Montreal's Hotel UFO Have a Real Explanation?
 parent_permalink: /bonaventure/
 parent_nav_short_title: Bonaventure

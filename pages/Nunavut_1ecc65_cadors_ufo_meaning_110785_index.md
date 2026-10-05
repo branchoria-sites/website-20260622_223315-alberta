@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-cadors-ufo-meaning/
 description: Focused pages that expand on CADORS Meaning.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nunavut_1ecc65_cadors_ufo_meaning_110785
 parent_title: CADORS Meaning

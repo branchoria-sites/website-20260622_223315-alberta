@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-official-reporting-r/
 description: Focused pages that expand on Records.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Alberta_1dc61b_official_reporting_r_15e630
 parent_title: Records
