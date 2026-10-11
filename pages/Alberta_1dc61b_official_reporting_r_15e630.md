@@ -794,7 +794,7 @@ Alberta’s UFO history is strongest when read through those routes rather than 
 19.<a id="endnote-19"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 20.<a id="endnote-20"></a>
    Source: science.gc.ca  

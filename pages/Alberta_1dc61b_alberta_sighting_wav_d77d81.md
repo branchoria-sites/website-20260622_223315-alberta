@@ -902,7 +902,7 @@ The remaining cases should not be inflated or ignored. They belong in a narrower
 31.<a id="endnote-31"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 32.<a id="endnote-32"></a>
    Source: amsmeteors.org  
