@@ -1,11 +1,11 @@
 ---
-title: Archives Sub-Topic Index
-title_full: Archives Sub-Topic Index
+title: "Nova Scotia Archives Sub-Topic Index"
+title_full: "Nova Scotia Archives Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-canadian-ufo/
-description: Focused pages that expand on Archives.
+description: "Focused pages that expand on Archives - Nova Scotia."
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default
