@@ -1,11 +1,11 @@
 ---
-title: Official Files Sub-Topic Index
-title_full: Official Files Sub-Topic Index
+title: "British Columbia Official Files Sub-Topic Index"
+title_full: "British Columbia Official Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-bc-official/
-description: Focused pages that expand on Official Files.
+description: "Focused pages that expand on Official Files - British Columbia."
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default

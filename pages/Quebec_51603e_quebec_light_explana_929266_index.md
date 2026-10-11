@@ -1,11 +1,11 @@
 ---
-title: Explanations Sub-Topic Index
-title_full: Explanations Sub-Topic Index
+title: "Quebec Explanations Sub-Topic Index"
+title_full: "Quebec Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-light-explana/
-description: Focused pages that expand on Explanations.
+description: "Focused pages that expand on Explanations - Quebec."
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default

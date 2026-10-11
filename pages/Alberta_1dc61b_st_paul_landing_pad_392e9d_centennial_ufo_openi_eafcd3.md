@@ -16,7 +16,7 @@ keywords:
 - 1967-opening
 affiliate_category: alberta
 show_ads: true
-description: St.
+description: "St - Alberta (1967 opening)."
 hero_summary: St.
 layout: default
 permalink: /1967-opening/

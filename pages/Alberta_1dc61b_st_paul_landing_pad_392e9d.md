@@ -20,7 +20,7 @@ keywords:
 - st-paul-pad
 affiliate_category: alberta
 show_ads: true
-description: St.
+description: "St - Alberta (st paul pad)."
 hero_summary: St.
 layout: default
 permalink: /st-paul-pad/
